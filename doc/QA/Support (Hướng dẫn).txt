@@ -1,0 +1,6 @@
+Mỗi lần cần hỏi 1 vấn đề thì tạo 1 file tương tự file mẫu:
+Mẫu là #<Số thứ tự câu hỏi>
+VD:
+Câu hỏi bình thường thì tạo bằng file .txt, vd: #1.txt
+Câu hỏi có hình ảnh minh họa thì file .xlsx vd #.xlsx
+Với excel thì tạo câu hỏi vào sheet Q, câu trả lời sẽ được viết vào sheet A
